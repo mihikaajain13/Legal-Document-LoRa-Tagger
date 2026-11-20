@@ -1,0 +1,44 @@
+{
+  "labels": [
+    "PAYMENT",
+    "CONFIDENTIALITY",
+    "TERMINATION",
+    "AUDIT"
+  ],
+  "confusion": [
+    [
+      3,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      3,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      3,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      3
+    ]
+  ],
+  "correct": 12,
+  "total": 12,
+  "accuracy": 1.0,
+  "macro_f1": 1.0,
+  "baseline_accuracy": 1.0,
+  "adapter_parameters": 12288,
+  "new_embedding_parameters": 3072,
+  "warm_seconds": 1.9905007000052137,
+  "clauses_per_second": 6.028633900992132,
+  "max_merge_error": 1.52587890625e-05
+}
