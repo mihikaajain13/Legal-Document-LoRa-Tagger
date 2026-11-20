@@ -1,8 +1,6 @@
 [![Built with askThili](https://ask.thili.ai/api/v1/public/projects/x75vkqjx8t/badge.svg)](https://ask.thili.ai/b/x75vkqjx8t)
 # Legal Document LoRA Tagger
 
-[![Built with askThili](https://ask.thili.ai/api/v1/public/projects/x75vkqjx8t/badge.svg)](https://ask.thili.ai/b/x75vkqjx8t)
-
 This project develops a Legal Document LoRA Tagger, a tool designed to accelerate the classification of public sector legal documents. By applying LoRA to fine-tune GPT-2, it automates the tagging of legal clauses, aiming to boost efficiency for public sector clerks and reduce the need for extensive manual review.
 
 ## What you are building
