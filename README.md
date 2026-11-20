@@ -1,3 +1,4 @@
+[![Built with askThili](https://ask.thili.ai/api/v1/public/projects/x75vkqjx8t/badge.svg)](https://ask.thili.ai/b/x75vkqjx8t)
 # Legal Document LoRA Tagger
 
 [![Built with askThili](https://ask.thili.ai/api/v1/public/projects/x75vkqjx8t/badge.svg)](https://ask.thili.ai/b/x75vkqjx8t)
