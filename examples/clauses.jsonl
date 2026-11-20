@@ -1,0 +1,48 @@
+{"id":"payment-1","split":"train","label":"PAYMENT","text":"The city shall pay approved invoices within thirty days."}
+{"id":"payment-2","split":"train","label":"PAYMENT","text":"Fees are payable on the first business day of each month."}
+{"id":"payment-3","split":"train","label":"PAYMENT","text":"The vendor will receive reimbursement for documented travel costs."}
+{"id":"payment-4","split":"train","label":"PAYMENT","text":"The total purchase price is due upon delivery."}
+{"id":"payment-5","split":"train","label":"PAYMENT","text":"Submit an itemized bill to the finance department for settlement."}
+{"id":"payment-6","split":"train","label":"PAYMENT","text":"The authority shall remit the balance by bank transfer."}
+{"id":"payment-7","split":"train","label":"PAYMENT","text":"Compensation is limited to the amount specified in the purchase order."}
+{"id":"payment-8","split":"train","label":"PAYMENT","text":"The final installment falls due when the works are accepted."}
+{"id":"payment-9","split":"train","label":"PAYMENT","text":"The agency will release funds after receiving a receipt."}
+{"id":"payment-10","split":"test","label":"PAYMENT","text":"The supplier may invoice quarterly for completed services."}
+{"id":"payment-11","split":"test","label":"PAYMENT","text":"A deposit of five percent is required on signing."}
+{"id":"payment-12","split":"test","label":"PAYMENT","text":"Mileage expenses will be reimbursed at the agreed rate."}
+{"id":"confidentiality-1","split":"train","label":"CONFIDENTIALITY","text":"The supplier shall keep personal records confidential."}
+{"id":"confidentiality-2","split":"train","label":"CONFIDENTIALITY","text":"Neither party may disclose restricted information to another person."}
+{"id":"confidentiality-3","split":"train","label":"CONFIDENTIALITY","text":"Access to private files is limited to authorized staff."}
+{"id":"confidentiality-4","split":"train","label":"CONFIDENTIALITY","text":"The contractor must protect the secrecy of sealed submissions."}
+{"id":"confidentiality-5","split":"train","label":"CONFIDENTIALITY","text":"Staff may not share protected data outside the department."}
+{"id":"confidentiality-6","split":"train","label":"CONFIDENTIALITY","text":"Sensitive records shall be stored under restricted access."}
+{"id":"confidentiality-7","split":"train","label":"CONFIDENTIALITY","text":"The recipient must obtain consent before releasing proprietary information."}
+{"id":"confidentiality-8","split":"train","label":"CONFIDENTIALITY","text":"Personnel shall sign a nondisclosure undertaking before viewing the files."}
+{"id":"confidentiality-9","split":"train","label":"CONFIDENTIALITY","text":"Names of applicants must remain private."}
+{"id":"confidentiality-10","split":"test","label":"CONFIDENTIALITY","text":"Unpublished bid details may be discussed only with the panel."}
+{"id":"confidentiality-11","split":"test","label":"CONFIDENTIALITY","text":"The consultant shall safeguard information received in confidence."}
+{"id":"confidentiality-12","split":"test","label":"CONFIDENTIALITY","text":"Disclosure of residents' personal details requires prior written permission."}
+{"id":"termination-1","split":"train","label":"TERMINATION","text":"Either party may terminate the agreement with written notice."}
+{"id":"termination-2","split":"train","label":"TERMINATION","text":"The authority may cancel the contract for material breach."}
+{"id":"termination-3","split":"train","label":"TERMINATION","text":"The city can end services if the supplier becomes insolvent."}
+{"id":"termination-4","split":"train","label":"TERMINATION","text":"Repeated default gives the board a right to rescind the award."}
+{"id":"termination-5","split":"train","label":"TERMINATION","text":"The agreement expires at the end of the fiscal year."}
+{"id":"termination-6","split":"train","label":"TERMINATION","text":"A contractor may withdraw after giving sixty days of notice."}
+{"id":"termination-7","split":"train","label":"TERMINATION","text":"The council may discontinue the arrangement for convenience."}
+{"id":"termination-8","split":"train","label":"TERMINATION","text":"Cancellation takes effect upon receipt of the termination letter."}
+{"id":"termination-9","split":"train","label":"TERMINATION","text":"Failure to remedy a breach permits the agency to end the engagement."}
+{"id":"termination-10","split":"test","label":"TERMINATION","text":"The contract will cease when the pilot ends."}
+{"id":"termination-11","split":"test","label":"TERMINATION","text":"A party wishing to exit must notify the other in writing."}
+{"id":"termination-12","split":"test","label":"TERMINATION","text":"Persistent nonperformance is grounds for dismissal of the contractor."}
+{"id":"audit-1","split":"train","label":"AUDIT","text":"The city auditor may inspect all financial records."}
+{"id":"audit-2","split":"train","label":"AUDIT","text":"The contractor must provide access to supporting ledgers for examination."}
+{"id":"audit-3","split":"train","label":"AUDIT","text":"An independent reviewer shall verify the accuracy of expense reports."}
+{"id":"audit-4","split":"train","label":"AUDIT","text":"The board reserves the right to audit the project accounts."}
+{"id":"audit-5","split":"train","label":"AUDIT","text":"Inspectors may examine supporting documentation on request."}
+{"id":"audit-6","split":"train","label":"AUDIT","text":"The supplier must cooperate with periodic compliance reviews."}
+{"id":"audit-7","split":"train","label":"AUDIT","text":"The agency can examine transaction logs to verify reported expenditure."}
+{"id":"audit-8","split":"train","label":"AUDIT","text":"The oversight office may check receipts against procurement records."}
+{"id":"audit-9","split":"train","label":"AUDIT","text":"The vendor shall make its books available to authorized examiners."}
+{"id":"audit-10","split":"test","label":"AUDIT","text":"A financial inspection may be conducted at the contractor's premises."}
+{"id":"audit-11","split":"test","label":"AUDIT","text":"The comptroller may verify entries in the project ledger."}
+{"id":"audit-12","split":"test","label":"AUDIT","text":"Reviewers may trace claimed costs back to the original receipts."}
