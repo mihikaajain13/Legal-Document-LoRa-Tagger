@@ -1,6 +1,4 @@
-httpx
-pytest
-datasets
-transformers
-torch
-numpy
+numpy>=1.26
+tokenizers>=0.19
+huggingface_hub>=0.24
+threadpoolctl>=3.2
